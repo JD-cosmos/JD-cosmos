@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Developer | AI-Augmented Developer | Lead @ Usergenices</h3>
 
 ## About Me
-I am a Full-Stack Developer and the Founder & Team Lead at Usergenics, a development team based in Ahmedabad, India, delivering web and software solutions for finance, retail, and media clients. I am currently targeting Senior AI-Augmented Developer or Team Lead roles where I can leverage my expertise in full-stack architectures and AI integrations. I am passionate about building professional, high-performance web applications and leading collaborative development teams to success.
+I am a Full-Stack Developer and the Founder & Team Lead at Usergenices, a development team based in Ahmedabad, India, delivering web and software solutions for finance, retail, and media clients. I specialize in full-stack architectures and AI-augmented development workflows, and also help companies as an AI-Augmented Developer, building professional, high-performance web applications and leading collaborative development teams to deliver real client outcomes.
 
 ## Tech Stack
 <p align="left">
